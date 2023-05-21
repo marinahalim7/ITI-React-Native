@@ -90,6 +90,7 @@ export default function Profile({navigation}) {
       </View>
       <Button title="Movies" onPress={()=>navigation.navigate("Movies")}/>
 
+      
     </ScrollView>
   );
 }
